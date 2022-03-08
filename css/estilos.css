@@ -1,0 +1,27 @@
+body{
+    font-family: 'Shippori Antique B1', sans-serif;
+}
+
+.navbar {
+    color: seagreen;
+}
+
+.navbar:hover {
+    color: olive;
+}
+
+.destacado{
+    color: rgb(255, 255, 255);
+}
+
+.tamaño{
+    height: 60px;
+}
+
+.marca{
+    color: white;
+}
+
+.marca:hover{
+    color: aquamarine;
+}
